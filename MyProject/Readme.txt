@@ -1,0 +1,1 @@
+Для того чтобы получить эффект подключения #include <menu.h>, нужно эту библиотеку закинуть в путь C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++

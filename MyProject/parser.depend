@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1711371621 source:c:\users\m1sha\desktop\test\parser\main.cpp
+	<iostream>
+	<windows.h>
+
+1711454923 source:c:\users\kan3k\onedrive\Рабочий стол\parser\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1713542879 source:c:\users\kan3k\onedrive\Рабочий стол\myproject\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+	<cmath>
+	<fstream>
+
+1713793180 source:c:\users\kan3k\onedrive\Рабочий стол\myproject — копия\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+	<cmath>
+	<fstream>
+	"menu.h"
+
+1713794188 c:\users\kan3k\onedrive\Рабочий стол\myproject — копия\menu.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+	<cmath>
+	<fstream>
+

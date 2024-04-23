@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="parser" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/parser" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="pars/bin/libeay32.dll" />
+		<Unit filename="pars/bin/libiconv2.dll" />
+		<Unit filename="pars/bin/libintl3.dll" />
+		<Unit filename="pars/bin/libssl32.dll" />
+		<Unit filename="pars/bin/wget.exe" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-1-GnuWin32.README" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/AUTHORS" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/COPYING" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/ChangeLog.README" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/INSTALL" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/NEWS" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/README" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/doc/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/doc/wget.info" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/msdos/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/src/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/tests/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/tests/README" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/util/README" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/windows/ChangeLog" />
+		<Unit filename="pars/contrib/wget/1.11.4/wget-1.11.4-src/windows/README" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.chm" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.dvi.gz" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.hlp" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.html" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.pdf" />
+		<Unit filename="pars/doc/wget/1.11.4/wget-1.11.4/wget.ps.gz" />
+		<Unit filename="pars/etc/wgetrc" />
+		<Unit filename="pars/info/wget.info.gz" />
+		<Unit filename="pars/man/cat1/wget.1.txt" />
+		<Unit filename="pars/man/html/wget.1.html" />
+		<Unit filename="pars/man/man1/wget.1" />
+		<Unit filename="pars/man/pdf/wget-man.pdf" />
+		<Unit filename="pars/man/ps/wget-man.ps.gz" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-bin.mft" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-bin.ver" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-dep.mft" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-dep.ver" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-doc.mft" />
+		<Unit filename="pars/manifest/wget-1.11.4-1-doc.ver" />
+		<Unit filename="pars/share/locale/be/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/bg/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/ca/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/cs/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/da/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/de/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/el/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/en_GB/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/eo/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/es/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/et/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/eu/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/fi/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/fr/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/ga/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/gl/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/he/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/hr/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/hu/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/id/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/it/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/ja/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/nb/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/nl/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/pl/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/pt/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/pt_BR/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/ro/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/ru/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/sk/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/sl/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/sr/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/sv/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/tr/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/uk/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/vi/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/zh_CN/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/share/locale/zh_TW/LC_MESSAGES/wget.mo" />
+		<Unit filename="pars/uninstall/unins000.dat" />
+		<Unit filename="pars/uninstall/unins000.exe" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
